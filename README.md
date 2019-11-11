@@ -8,6 +8,6 @@
 
 
   # How to run:
- - Add files .m to a common file.
+ - Add files .m to a common directory.
  - "Add to path" for those files via Matalab.
  - Execute "Ascript.m" or "B_Cscript.m"
